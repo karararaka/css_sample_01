@@ -1,0 +1,32 @@
+body {
+    background-color: silver;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #f5f5f5;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: gray;
+    color: silver;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : gray;
+    color: silver;
+}
